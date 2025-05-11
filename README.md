@@ -13,6 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=manishrnl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+
+---
+
+
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **Spring Boot Projects**
@@ -20,6 +24,10 @@
 - 👨‍💻 All my projects are at: [**Portfolio Website**](https://manishrnl.netlify.app/){:target="_blank"}
 - 💬 Ask me about **Java** or **Spring Boot**
 - 📫 Reach me at **manishrajrnl@gmail.com**
+
+
+--
+
 
 ### 🤝 Connect with Me
 
@@ -37,6 +45,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram" />
   </a>
 </p>
+
+
+--
+
+
 
 ### 🛠️ Languages and Tools
 
@@ -59,6 +72,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
 </p>
 
+
+--
+
+
+
 ### 📊 GitHub Stats
 
 <table align="center">
@@ -74,6 +92,11 @@
     </td>
   </tr>
 </table>
+
+
+--
+
+
 
 ### 🐍 GitHub Snake Contribution Graph
 
