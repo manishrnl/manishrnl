@@ -2,8 +2,8 @@
   <img src="https://github.com/manishrnl/manishrnl/blob/main/banner.gif" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manish</h1>
-<h3 align="center">A passionate Software Developer from India, currently working with Spring Boot</h3>
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h3 align="center">A passionate Software Developer from India, currently diving deep into **Spring Boot** and **JavaFX**</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt1NmFlMGYxemRkZHZpejJ1em5zbmp2bm9ja3U5Zm81MDhmNTVkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Coding GIF" />
@@ -13,56 +13,38 @@
   <img src="https://komarev.com/ghpvc/?username=manishrnl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-
-
 ---
-
-
 
 ### 🧠 About Me
 
-
-
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m learning **Spring Boot** and **JavaFX**
-- 👨‍💻 All my projects are at: [**Portfolio Website**](https://manishrnl.netlify.app/){:target="_blank"}
-- 💬 Ask me about **Java** or **Spring Boot**
+- 👨‍💻 All my projects are available on my [**Portfolio Website**](https://manishrnl.netlify.app/)
+- 💬 Ask me about **Java**, **Spring Boot**, or anything coding-related!
 - 📫 Reach me at **manishrajrnl@gmail.com**
-
-
 
 ---
 
-
-
 ### 🤝 Connect with Me
 
-
-
 <p align="center">
-  <a href="https://twitter.com/manishrnl"  style="text-decoration: none; display: inline-block; border-radius: 20px;">
+  <a href="https://twitter.com/manishrnl" style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="60" height="30" alt="Twitter" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/manish-kumar-2846a8145"  style="text-decoration: none; display: inline-block; border-radius: 20px;">
+  <a href="https://linkedin.com/in/manish-kumar-2846a8145" style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="60" height="30" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100011121437261"  style="text-decoration: none; display: inline-block; border-radius: 20px;">
+  <a href="https://www.facebook.com/profile.php?id=100011121437261" style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="60" height="30" alt="Facebook" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/manish.rnl"   style="text-decoration: none; display: inline-block; border-radius: 8px;">
+  <a href="https://instagram.com/manish.rnl" style="text-decoration: none; display: inline-block; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="60" height="30" alt="Instagram" />
   </a>
 </p>
 
-
-
 ---
 
-
-
 ### 🛠️ Languages and Tools
-
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="40" alt="Java" />&nbsp;&nbsp;
@@ -83,15 +65,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40" alt="AWS" />
 </p>
 
-
-
 ---
 
-
-
 ### 📊 GitHub Stats
-
-
 
 <table align="center">
   <tr>
@@ -107,15 +83,9 @@
   </tr>
 </table>
 
-
-
 ---
 
-
-
 ### 🐍 GitHub Snake Contribution Graph
-
-
 
 <p align="center">
   <picture>
