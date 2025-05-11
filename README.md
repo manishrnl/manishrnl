@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://manishrnl.netlify.app/](https://manishrnl.netlify.app/)
 
-- 💬 Ask me about **JAVA , HTML , CSS**
+- 💬 Ask me about **JAVA , Spring Boot **
 
 - 📫 How to reach me **manishrajrnl@gmail.com**
 
