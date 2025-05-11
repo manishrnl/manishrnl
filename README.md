@@ -67,15 +67,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishrnl&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishrnl&theme=dark" alt="GitHub Streak" />
 </p>
 
