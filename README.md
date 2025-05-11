@@ -1,4 +1,6 @@
-![logo](https://github.com/manishrnl/manishrnl/blob/main/banner.gif)
+<p align="center">
+  <img src="https://github.com/manishrnl/manishrnl/blob/main/banner.gif" alt="banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A passionate Software Developer from India, currently working with Spring Boot</h3>
@@ -8,10 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manishrnl&label=Profile%20views&color=0e75b6&style=flat" alt="manishrnl" />
+  <img src="https://komarev.com/ghpvc/?username=manishrnl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
----
 
 ### 🧠 About Me
 
@@ -21,26 +21,22 @@
 - 💬 Ask me about **Java** or **Spring Boot**
 - 📫 Reach me at **manishrajrnl@gmail.com**
 
----
-
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/manishrnl" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
+  <a href="https://twitter.com/manishrnl" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" alt="Twitter" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/manish-kumar-2846a8145" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30" />
+  <a href="https://linkedin.com/in/manish-kumar-2846a8145" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100011121437261" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
+  <a href="https://www.facebook.com/profile.php?id=100011121437261" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" height="30" alt="Facebook" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/manish.rnl" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30" />
+  <a href="https://instagram.com/manish.rnl" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30" alt="Instagram" />
   </a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools
 
@@ -63,25 +59,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishrnl&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishrnl&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishrnl&theme=dark" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishrnl&theme=dark&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
----
 
 ### 🐍 GitHub Snake Contribution Graph
 
