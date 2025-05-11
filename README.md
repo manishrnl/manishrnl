@@ -1,3 +1,4 @@
+![logo](https://github.com/manishrnl/manishrnl/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A passionate Software Engineer Developer from India currently working on Spring Boot</h3>
 <img align="right" alt="GIF" width ="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt1NmFlMGYxemRkZHZpejJ1em5zbmp2bm9ja3U5Zm81MDhmNTVkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
