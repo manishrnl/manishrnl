@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/manishrnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manishrnl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manish-kumar-2846a8145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-kumar-2846a8145" height="30" width="40" /></a>
-<a href="https://fb.com/manish-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish-kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011121437261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manish-kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/manish.rnl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish.rnl" height="30" width="40" /></a>
 </p>
 
