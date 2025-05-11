@@ -32,16 +32,16 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/manishrnl" target="_blank" style="text-decoration: none; display: inline-block; border-radius: 20px;">
+  <a href="https://twitter.com/manishrnl"  style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="60" height="30" alt="Twitter" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/manish-kumar-2846a8145" target="_blank" style="text-decoration: none; display: inline-block; border-radius: 20px;">
+  <a href="https://linkedin.com/in/manish-kumar-2846a8145"  style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="60" height="30" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100011121437261" target="_blank" style="text-decoration: none; display: inline-block; border-radius: 20px;">
+  <a href="https://www.facebook.com/profile.php?id=100011121437261"  style="text-decoration: none; display: inline-block; border-radius: 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="60" height="30" alt="Facebook" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/manish.rnl" target="_blank" style="text-decoration: none; display: inline-block; border-radius: 8px;">
+  <a href="https://instagram.com/manish.rnl"   style="text-decoration: none; display: inline-block; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="60" height="30" alt="Instagram" />
   </a>
 </p>
