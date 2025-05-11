@@ -26,7 +26,7 @@
 - 📫 Reach me at **manishrajrnl@gmail.com**
 
 
---
+---
 
 
 ### 🤝 Connect with Me
@@ -47,7 +47,7 @@
 </p>
 
 
---
+---
 
 
 
@@ -73,7 +73,7 @@
 </p>
 
 
---
+---
 
 
 
@@ -94,7 +94,7 @@
 </table>
 
 
---
+---
 
 
 
