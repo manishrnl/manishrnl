@@ -14,10 +14,14 @@
 </p>
 
 
+
 ---
 
 
+
 ### 🧠 About Me
+
+
 
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m learning **Spring Boot** and **JavaFX**
@@ -26,10 +30,14 @@
 - 📫 Reach me at **manishrajrnl@gmail.com**
 
 
+
 ---
 
 
+
 ### 🤝 Connect with Me
+
+
 
 <p align="center">
   <a href="https://twitter.com/manishrnl"  style="text-decoration: none; display: inline-block; border-radius: 20px;">
@@ -48,12 +56,13 @@
 
 
 
-
 ---
 
 
 
 ### 🛠️ Languages and Tools
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="40" alt="Java" />&nbsp;&nbsp;
@@ -75,11 +84,14 @@
 </p>
 
 
+
 ---
 
 
 
 ### 📊 GitHub Stats
+
+
 
 <table align="center">
   <tr>
@@ -96,11 +108,14 @@
 </table>
 
 
+
 ---
 
 
 
 ### 🐍 GitHub Snake Contribution Graph
+
+
 
 <p align="center">
   <picture>
