@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h6 align="center">A passionate Software Developer from India, currently diving deep into <strong>Spring Boot</strong> and <strong>JavaFX</strong></h3>
+<p align="center">
+  <strong>A passionate Software Developer from India, currently diving deep into Spring Boot and JavaFX</strong>
+</p>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt1NmFlMGYxemRkZHZpejJ1em5zbmp2bm9ja3U5Zm81MDhmNTVkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Coding GIF" />
