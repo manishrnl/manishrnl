@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m learning **Spring Boot** and **JavaFX**
-- 👨‍💻 All my projects are available on my [**Portfolio Website**]((https://manishrnl.netlify.app/projects))
+- 👨‍💻 All my projects are available on my [**Portfolio Website**](https://manishrnl.netlify.app/projects)
 - 💬 Ask me about **Java**, **Spring Boot**, or anything coding-related!
 - 📫 Reach me at **manishrajrnl@zohomail.in**
 
