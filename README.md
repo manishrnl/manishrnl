@@ -65,14 +65,11 @@
 
 ### 📊 GitHub Stats
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishrnl&theme=dracula" alt="profile details" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishrnl&theme=dracula" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=dracula" alt="most commit language" />
-</p>
+<h3 align="center">📈 Comprehensive GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dracula&hide_border=true&include_all_commits=true" alt="Manish's Total Commits and Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=dracula" alt="Most Committed Language" />
+</div>
 
 ---
 
