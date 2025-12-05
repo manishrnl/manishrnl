@@ -37,9 +37,11 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="60" height="30" alt="Instagram" />
   </a>
 </p>
----
-### 🛠️ Languages and Tools
 
+---
+
+### 🛠️ Languages and Tools
+<br/><br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="40" alt="Java" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="40" alt="Spring Boot" />&nbsp;&nbsp;
@@ -64,11 +66,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dark&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishrnl&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=manishrnl&theme=dark&hide_border=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=manishrnl&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 ---
