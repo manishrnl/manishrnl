@@ -11,13 +11,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manishrnl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 ---
 ### 🧠 About Me
+
 - 🔭 I’m currently working on **Spring Boot Projects**
 - 🌱 I’m learning **Spring Boot** and **JavaFX**
 - 👨‍💻 All my projects are available on my [**Portfolio Website**](https://manishrnl.netlify.app/projects)
 - 💬 Ask me about **Java**, **Spring Boot**, or anything coding-related!
 - 📫 Reach me at **manishrajrnl@zohomail.in**
+
 ---
 ### 🤝 Connect with Me
 <p align="center">
