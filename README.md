@@ -1,98 +1,67 @@
 <p align="center">
-  <img src="https://github.com/manishrnl/manishrnl/blob/main/banner.gif" alt="banner" />
+  <a href="https://github.com/manishrnl">
+    <img src="https://github.com/manishrnl/manishrnl/blob/main/banner.gif" alt="Banner" />
+  </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<p align="center">
-  <strong>A passionate Software Developer from India, currently diving deep into Spring Boot and JavaFX</strong>
-</p>
+<h3 align="center">Full-Stack Java Developer | Spring Boot & JavaFX Enthusiast | Building Scalable Solutions</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGt1NmFlMGYxemRkZHZpejJ1em5zbmp2bm9ja3U5Zm81MDhmNTVkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" alt="Coding GIF" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manishrnl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=manishrnl&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 </p>
 
 ---
 
-### 🧠 About Me
-
-- 🔭 I’m currently working on **Spring Boot Projects**
-- 🌱 I’m learning **Spring Boot** and **JavaFX**
-- 👨‍💻 All my projects are available on my [**Portfolio Website**](https://manishrnl.netlify.app/projects)
-- 💬 Ask me about **Java**, **Spring Boot**, or anything coding-related!
-- 📫 Reach me at **manishrajrnl@zohomail.in**
+### 👨‍💻 About Me
+- 🔭 Currently working on **Enterprise-grade Spring Boot applications** and **rich desktop apps with JavaFX**
+- 🌱 Deepening expertise in **Spring Boot, Spring Security, Microservices, and Reactive Programming**
+- 💼 Open to **full-time Java Developer / Backend Engineer** roles
+- 👨‍💻 Portfolio: [manishrnl.netlify.app](https://manishrnl.netlify.app)
+- 📫 How to reach me: **manishrajrnl@zohomail.in**
 
 ---
 
 ### 🤝 Connect with Me
-
 <p align="center">
-  <a href="https://twitter.com/manishrnl" style="text-decoration: none; display: inline-block; border-radius: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="60" height="30" alt="Twitter" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/manish-kumar-2846a8145" style="text-decoration: none; display: inline-block; border-radius: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="60" height="30" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100011121437261" style="text-decoration: none; display: inline-block; border-radius: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="60" height="30" alt="Facebook" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/manish.rnl" style="text-decoration: none; display: inline-block; border-radius: 8px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="60" height="30" alt="Instagram" />
+  <a href="https://twitter.com/manishrnl">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/manish-kumar-2846a8145">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://instagram.com/manish.rnl">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="40" alt="Java" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="40" alt="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="40" alt="C" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="40" alt="C++" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="40" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="40" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="40" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="40" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="40" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="40" alt="Git" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="40" alt="Postman" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="40" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="40" alt="Android" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40" alt="AWS" />
-</p>
 
----
+Java   • Spring Boot • JavaFX • MySQL • MongoDB • Docker
+Python • JavaScript • HTML/CSS • Git • Postman • AWS • Linux
 
-### 📊 GitHub Stats
+  https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,postgresql,docker,git,github,linux,aws,postman,idea,vscode
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishrnl&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishrnl&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
 
----
+📊 GitHub Stats
 
-### 🐍 GitHub Snake Contribution Graph
+  https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true
+  https://github-readme-stats.vercel.app/api/top-langs?username=manishrnl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
 
-<p align="center">
+
+  streak
+
+
+🐍 Contribution Snake (because why not?)
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishrnl/manishrnl/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishrnl/manishrnl/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manishrnl/manishrnl/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
+
+
+  "Code is like humor. When you have to explain it, it’s bad." – Cory House
