@@ -65,10 +65,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=manishrnl&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishrnl&theme=dracula" alt="profile details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishrnl&theme=dracula" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=dracula" alt="most commit language" />
+</p>
 
 ---
 
