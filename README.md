@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="https://github.com/manishrnl/manishrnl/blob/main/banner.gif" alt="banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
@@ -41,45 +41,57 @@
 ---
 
 ### 🛠️ Languages and Tools
-<br/><br/>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="40" alt="Java" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="40" alt="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40" alt="Python" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="40" alt="C" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="40" alt="C++" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="40" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="40" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="40" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="40" alt="MySQL" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="40" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="40" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="40" alt="Git" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="40" alt="Postman" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="40" alt="Linux" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="40" alt="Android" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,react,cpp,html,css,js,mysql,
+mongodb,docker,git,postman,linux,aws&perline=8" />
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishrnl&theme=dracula" alt="profile details" />
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishrnl&theme=dracula" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishrnl&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishrnl&theme=default" alt="Profile Details" />
+  </picture>
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishrnl&theme=dracula" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=dracula" alt="most commit language" />
-</p> 
-
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishrnl&theme=dracula" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishrnl&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manishrnl&theme=default" width="400" alt="Repos per Language" />
+  </picture>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <picture>
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=dracula" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=default" width="400" alt="Most Used Languages" />
+  </picture>
+</p>
 ---
-<h3>🏆 GitHub Achievements</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishrnl&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
+<h3>🏆 GitHub Achievements</h3>
+
+<p align="center">
+  <picture>
+    <!-- Dark mode – larger + spacious -->
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=manishrnl&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=20&margin-h=20&row=3" 
+      media="(prefers-color-scheme: dark)" />
+    <!-- Light mode – larger + spacious -->
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=manishrnl&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=20&margin-h=20&row=3" 
+      media="(prefers-color-scheme: light)" />
+    <!-- Fallback (light) -->
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=manishrnl&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=20&margin-h=20&row=3" 
+      alt="GitHub Trophies" />
+  </picture>
+</p>
 
 ---
 
@@ -87,9 +99,9 @@
 ### 🐍 GitHub Snake Contribution Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishrnl/manishrnl/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishrnl/manishrnl/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/manishrnl/manishrnl/output/github-snake.svg" />
+  </picture>
 </p>
