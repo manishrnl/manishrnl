@@ -67,11 +67,26 @@
 
 <h3 align="center">📈 Comprehensive GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=dracula&hide_border=true&include_all_commits=true" alt="Manish's Total Commits and Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=dracula" alt="Most Committed Language" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manishrnl&show_icons=true&locale=en&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Manish's Total Commits and Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=tokyonight" alt="Most Committed Language" />
 </div>
 
 ---
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manishrnl&theme=dracula" alt="Most Committed Language" />
+</div>
+---
+<h3 align="center">🏆 GitHub Achievements</h3>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manishrnl&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+<h3 align="center">🐍 Contributions</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=manishrnl&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
+
 
 ### 🐍 GitHub Snake Contribution Graph
 
