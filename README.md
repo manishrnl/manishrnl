@@ -1,13 +1,13 @@
 # Manish Kumar
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:0e75b6,100:000000&height=220&section=header&text=Manish%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20&%20Microservices&descAlignY=55&descSize=18" alt="Manish Kumar banner" width="100%">
+  <img src="assets/headers/top-banner.svg" alt="Manish Kumar banner" width="100%">
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manishrnl&label=Profile%20Views&color=0e75b6" alt="Profile views" width="180">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=4000&pause=1000&center=true&vCenter=true&width=560&lines=Building+scalable+distributed+systems...;Optimizing+microservices+%26+low-latency+backends...;Driven+by+clean+architecture+and+code." alt="typing banner" width="560">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=560&background=00000000&color=d12121&lines=Building+scalable+distributed+systems ....;Optimizing+microservices+%26+low-latency+backends ....;Driven+by+clean+architecture+and+code ...." alt="typing banner" width="560">
 </p>
 
 
@@ -21,7 +21,7 @@
 Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the **Spring Boot & Microservices** ecosystem. Experienced in building scalable REST APIs, event-driven architectures, and high-performance backend systems with optimized caching and database structures.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=500&lines=Spring+Boot+3.x+%7C+Distributed+Systems;Kafka+Event-Driven+Architecture;Redis+Caching+%26+Performance+Tuning" alt="Summary typing banner" width="500">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=500&color=056321&lines=Spring+Boot+3.x+%7C+Distributed+Systems ....;Kafka+Event-Driven+Architecture ....;Redis+Caching+%26+Performance+Tuning ...." alt="Summary typing banner" width="500">
 </p>
 
 - 🔭 **Featured Work:** Building a **Money Manager** backend suite, a distributed **LinkedIn Clone**, and an AI-driven **Airbnb Pricing Engine**.
@@ -52,7 +52,7 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=520&lines=High-performance+backend+engines...;Event-driven+architecture+%26+real-time+pricing...;Graph-optimized+networking+platforms...&background=00000000&gradient=0E75B6,3DDCFF,7C3AED" alt="Projects typing banner" width="520">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=520&color=056321&lines=High-performance+backend+engines .....;Event-driven+architecture+%26+real-time+pricing ....;Graph-optimized+networking+platforms ....&background=00000000&gradient=0E75B6,3DDCFF,7C3AED" alt="Projects typing banner" width="520">
 </p>
 
 - **📊 Money Manager - Spring Boot Backend System** (`Spring Boot`, `PostgreSQL`, `Redis`): Engineered a financial transaction management backend. Integrated Redis caching and PostgreSQL storage, **reducing API response time by 60%** and automating recurring reporting workflows.
@@ -68,11 +68,9 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 
 <div align="center">
   <table width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
       <td align="center" width="52%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishrnl&theme=tokyonight&hide_border=true" alt="GitHub streak stats" width="100%" height="180">
       </td>
-    </tr>
   </table>
 </div>
 
@@ -99,10 +97,8 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 
 <div align="center">
   <table width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tr>
       <td align="center" width="48%">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random tech quote" width="100%" height="110">
       </td>
-    </tr>
   </table>
 </div>

@@ -1,0 +1,44 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1A1A1A"/>
+      <stop offset="18%" stop-color="#1A1A1A"/>
+      <stop offset="38%" stop-color="#FFB000"/>
+      <stop offset="68%" stop-color="#FF6A00"/>
+      <stop offset="100%" stop-color="#FF3B30"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#FFF5D6"/>
+      <stop offset="100%" stop-color="#FFE5A8"/>
+    </linearGradient>
+    <linearGradient id="subGrad" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFF9E8"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFE9B3"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="220" rx="30" fill="url(#bgGrad)"/>
+
+  <g opacity="0.16" filter="url(#softGlow)">
+    <circle cx="120" cy="28" r="110" fill="#FFD166"/>
+    <circle cx="910" cy="190" r="140" fill="#FF7B00"/>
+    <circle cx="860" cy="38" r="74" fill="#FFF3CF"/>
+    <circle cx="70" cy="200" r="90" fill="#FF8A00"/>
+  </g>
+
+  <path d="M0 170C100 145 180 140 280 152C380 164 480 180 560 175C640 170 720 138 1000 150V220H0V170Z" fill="#111111" opacity="0.35"/>
+
+  <text x="500" y="96" text-anchor="middle" font-size="54" font-weight="800" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#titleGrad)">Manish Kumar</text>
+
+  <text x="500" y="132" text-anchor="middle" font-size="18" font-weight="700" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#subGrad)">Java Backend Developer</text>
+  <text x="500" y="156" text-anchor="middle" font-size="18" font-weight="700" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#subGrad)">Spring Boot &amp; Microservices</text>
+</svg>
