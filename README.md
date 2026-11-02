@@ -21,7 +21,7 @@
 Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the **Spring Boot & Microservices** ecosystem. Experienced in building scalable REST APIs, event-driven architectures, and high-performance backend systems with optimized caching and database structures.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=500&color=056321&lines=Spring+Boot+3.x+%7C+Distributed+Systems....;Kafka+Event-Driven+Architecture+....;Redis+Caching+%26+Performance+Tuning+...." alt="Summary typing banner" width="500">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=500&color=056321&lines=Spring+Boot+3.x+%7C+Distributed+Systems+....;Kafka+Event-Driven+Architecture+....;Redis+Caching+%26+Performance+Tuning+...." alt="Summary typing banner" width="500">
 </p>
 
 - 🔭 **Featured Work:** Building a **Money Manager** backend suite, a distributed **LinkedIn Clone**, and an AI-driven **Airbnb Pricing Engine**.
@@ -52,7 +52,7 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=500&color=056321&lines=Spring+Boot+3.x+%7C+Distributed+Systems....;Kafka+Event-Driven+Architecture+....;Redis+Caching+%26+Performance+Tuning+...." alt="Summary typing banner" width="500">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3500&pause=1000&center=true&vCenter=true&width=500&color=6f1aba&lines=Spring+Boot+3.x+%7C+Distributed+Systems+....;Kafka+Event-Driven+Architecture+....;Redis+Caching+%26+Performance+Tuning+...." alt="Summary typing banner" width="500">
 </p>
 
 - **📊 Money Manager - Spring Boot Backend System** (`Spring Boot`, `PostgreSQL`, `Redis`): Engineered a financial transaction management backend. Integrated Redis caching and PostgreSQL storage, **reducing API response time by 60%** and automating recurring reporting workflows.
@@ -88,10 +88,12 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manishrnl-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/manishrnl)
-[![Instagram](https://img.shields.io/badge/Instagram-manishrnl-E4405F?logo=instagram&logoColor=white)](https://instagram.com/manishrnl)
-[![Email](https://img.shields.io/badge/Email-manishrajrnl@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:manishrajrnl@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-manishrnl.in-0e75b6?logo=google-chrome&logoColor=white)](https://www.manishrnl.in)
+<p align="center">
+  <a href="https://linkedin.com/in/manishrnl"><img src="https://img.shields.io/badge/LinkedIn-manishrnl-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/manishrnl"><img src="https://img.shields.io/badge/Instagram-manishrnl-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:manishrajrnl@gmail.com"><img src="https://img.shields.io/badge/Email-manishrajrnl@gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.manishrnl.in"><img src="https://img.shields.io/badge/Portfolio-manishrnl.in-0e75b6?logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 
 
