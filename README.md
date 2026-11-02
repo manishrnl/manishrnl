@@ -81,7 +81,7 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manishrnl/manishrnl/output/github-snake.svg?palette=github-dark" alt="GitHub contribution snake" width="100%">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?username=manishrnl" alt="GitHub contribution snake" width="100%">
 </p>
 
 ---
