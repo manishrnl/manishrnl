@@ -1,44 +1,71 @@
 <svg width="1000" height="220" viewBox="0 0 1000 220" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bgGrad" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#1A1A1A"/>
-      <stop offset="18%" stop-color="#1A1A1A"/>
-      <stop offset="38%" stop-color="#FFB000"/>
-      <stop offset="68%" stop-color="#FF6A00"/>
-      <stop offset="100%" stop-color="#FF3B30"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090412"/>
+      <stop offset="30%" stop-color="#1F0B2B"/>
+      <stop offset="70%" stop-color="#2E0D48"/>
+      <stop offset="100%" stop-color="#12081E"/>
     </linearGradient>
-    <linearGradient id="titleGrad" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
+    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(300 35) rotate(90) scale(150 250)">
+      <stop stop-color="#F9C88A" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#F9C88A" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(760 170) rotate(90) scale(170 260)">
+      <stop stop-color="#E9A6FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#E9A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="45%" stop-color="#FFF5D6"/>
-      <stop offset="100%" stop-color="#FFE5A8"/>
+      <stop offset="40%" stop-color="#F4E8FF"/>
+      <stop offset="100%" stop-color="#D9C7FF"/>
     </linearGradient>
-    <linearGradient id="subGrad" x1="0" y1="0" x2="420" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#FFF9E8"/>
+    <linearGradient id="subGrad" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FCE7B2"/>
       <stop offset="50%" stop-color="#FFFFFF"/>
-      <stop offset="100%" stop-color="#FFE9B3"/>
+      <stop offset="100%" stop-color="#F7D7FF"/>
     </linearGradient>
-    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <filter id="blurSmall" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
     </filter>
   </defs>
 
-  <rect width="1000" height="220" rx="30" fill="url(#bgGrad)"/>
+  <rect width="1000" height="220" rx="26" fill="url(#bg)"/>
+  <rect width="1000" height="220" rx="26" fill="url(#glow1)"/>
+  <rect width="1000" height="220" rx="26" fill="url(#glow2)"/>
 
-  <g opacity="0.16" filter="url(#softGlow)">
-    <circle cx="120" cy="28" r="110" fill="#FFD166"/>
-    <circle cx="910" cy="190" r="140" fill="#FF7B00"/>
-    <circle cx="860" cy="38" r="74" fill="#FFF3CF"/>
-    <circle cx="70" cy="200" r="90" fill="#FF8A00"/>
+  <g opacity="0.9">
+    <circle cx="90" cy="32" r="2.4" fill="#FFF"/>
+    <circle cx="150" cy="60" r="1.8" fill="#F9D67A"/>
+    <circle cx="230" cy="28" r="2.3" fill="#FDF7E7"/>
+    <circle cx="320" cy="76" r="2.6" fill="#F5B0FF"/>
+    <circle cx="430" cy="25" r="2.1" fill="#FFF"/>
+    <circle cx="510" cy="62" r="1.7" fill="#F8D474"/>
+    <circle cx="610" cy="30" r="2.8" fill="#FFF"/>
+    <circle cx="710" cy="58" r="2.2" fill="#F7E0FF"/>
+    <circle cx="820" cy="25" r="2.5" fill="#FFF"/>
+    <circle cx="900" cy="70" r="2.1" fill="#FFDFA7"/>
+    <circle cx="65" cy="150" r="2.2" fill="#FFF"/>
+    <circle cx="180" cy="185" r="2.1" fill="#F5D874"/>
+    <circle cx="260" cy="140" r="2.3" fill="#FFF"/>
+    <circle cx="370" cy="175" r="2.0" fill="#F3A9FF"/>
+    <circle cx="520" cy="150" r="2.4" fill="#FFF"/>
+    <circle cx="640" cy="192" r="2.2" fill="#F7E9AA"/>
+    <circle cx="760" cy="150" r="2.7" fill="#FFF"/>
+    <circle cx="890" cy="180" r="2.1" fill="#F7D5FF"/>
+    <circle cx="960" cy="130" r="2.3" fill="#FFF"/>
+    <circle cx="780" cy="38" r="1.8" fill="#F7DD7C"/>
+    <circle cx="200" cy="105" r="2.0" fill="#FFF"/>
+    <circle cx="350" cy="118" r="1.8" fill="#FFDFA7"/>
+    <circle cx="760" cy="92" r="2.0" fill="#FFF"/>
+    <circle cx="878" cy="120" r="2.2" fill="#EFC8FF"/>
   </g>
 
-  <path d="M0 170C100 145 180 140 280 152C380 164 480 180 560 175C640 170 720 138 1000 150V220H0V170Z" fill="#111111" opacity="0.35"/>
+  <g opacity="0.35" filter="url(#blurSmall)">
+    <circle cx="190" cy="160" r="70" fill="#F4B9FF"/>
+    <circle cx="820" cy="145" r="90" fill="#FFD27A"/>
+  </g>
 
-  <text x="500" y="96" text-anchor="middle" font-size="54" font-weight="800" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#titleGrad)">Manish Kumar</text>
-
-  <text x="500" y="132" text-anchor="middle" font-size="18" font-weight="700" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#subGrad)">Java Backend Developer</text>
-  <text x="500" y="156" text-anchor="middle" font-size="18" font-weight="700" font-family="Segoe UI, Tahoma, Geneva, Verdana, sans-serif" fill="url(#subGrad)">Spring Boot &amp; Microservices</text>
+  <text x="500" y="104" text-anchor="middle" font-size="54" font-weight="700" font-family="'Popins', 'Segoe Script', 'Bradley Hand', cursive" fill="url(#titleGrad)" letter-spacing="0.5">Manish Kumar</text>
+  <text x="500" y="138" text-anchor="middle" font-size="18" font-weight="700" font-family="'Lucida Calligraphy', 'Segoe Print', 'Bradley Hand', cursive" fill="url(#subGrad)">Java Backend Developer</text>
+  <text x="500" y="163" text-anchor="middle" font-size="18" font-weight="700" font-family="'Lucida Calligraphy', 'Segoe Print', 'Bradley Hand', cursive" fill="url(#subGrad)">Spring Boot &amp; Microservices</text>
 </svg>
