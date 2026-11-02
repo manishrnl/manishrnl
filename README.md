@@ -101,7 +101,7 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 <div align="center">
   <table width="100%" cellpadding="0" cellspacing="0" border="0">
       <td align="center" width="48%">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random tech quote" width="100%" height="110">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random tech quote" width="100%" >
       </td>
   </table>
 </div>
