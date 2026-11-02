@@ -1,0 +1,10 @@
+<svg width="400" height="36" viewBox="0 0 400 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-journey" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="50%" stop-color="#C242B7"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <text x="0" y="26" font-size="24" font-weight="700" font-family="Segoe UI, Fira Code, sans-serif" fill="url(#grad-journey)">🐍 Contribution Journey</text>
+</svg>
