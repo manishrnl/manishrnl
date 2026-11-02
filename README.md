@@ -52,7 +52,7 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&weight=900&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=500&color=6f1aba&lines=Spring+Boot+3.x+%7C+Distributed+Systems+....;Kafka+Event-Driven+Architecture+....;Redis+Caching+%26+Performance+Tuning+...." alt="Summary typing banner" width="500">
+  <img src="https://readme-typing-svg.demolab.com?font=Lucida+Calligraphy&weight=900&size=20&duration=3500&pause=1000&center=true&vCenter=true&width=500&color=056321&lines=Spring+Boot+3.x+%7C+Distributed+Systems+....;Kafka+Event-Driven+Architecture+....;Redis+Caching+%26+Performance+Tuning+...." alt="Summary typing banner" width="500">
 </p>
 
 - **📊 Money Manager - Spring Boot Backend System** (`Spring Boot`, `PostgreSQL`, `Redis`): Engineered a financial transaction management backend. Integrated Redis caching and PostgreSQL storage, **reducing API response time by 60%** and automating recurring reporting workflows.
@@ -81,7 +81,7 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manishrnl/manishrnl/output/github-snake.svg" alt="GitHub contribution snake" width="100%">
+  <img src="https://raw.githubusercontent.com/manishrnl/manishrnl/output/github-snake.svg?palette=github-dark" alt="GitHub contribution snake" width="100%">
 </p>
 
 ---
@@ -101,7 +101,7 @@ Dedicated **Java Backend Developer** and B.Tech CSE graduate specializing in the
 <div align="center">
   <table width="100%" cellpadding="0" cellspacing="0" border="0">
       <td align="center" width="48%">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random tech quote" width="100%" >
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random tech quote" width="100%" height=auto >
       </td>
   </table>
 </div>
